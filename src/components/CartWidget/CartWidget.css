@@ -1,0 +1,14 @@
+.contendorPadreWidget{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+.contendorWidget{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 40%;
+    background-color: rgb(236, 150, 150);
+    margin-right: 20px;
+    border-radius: 5px;
+}
